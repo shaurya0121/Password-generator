@@ -6,4 +6,4 @@ Password Generator is a simple application that can randomly generate passwords 
 
 ![p1](https://user-images.githubusercontent.com/76877184/103482258-d88f3900-4e05-11eb-98e9-dd8518ebae09.PNG)
 
-![p2](https://user-images.githubusercontent.com/76877184/103482259-d927cf80-4e05-11eb-83db-ff57a47f5db2.PNG)
+
